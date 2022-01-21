@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/iq-increaser/static/css/main.7ee2d753.css",
+    "main.css": "/iq-increaser/static/css/main.fe3c93ec.css",
     "main.js": "/iq-increaser/static/js/main.7703b98c.js",
     "index.html": "/iq-increaser/index.html",
-    "main.7ee2d753.css.map": "/iq-increaser/static/css/main.7ee2d753.css.map",
+    "main.fe3c93ec.css.map": "/iq-increaser/static/css/main.fe3c93ec.css.map",
     "main.7703b98c.js.map": "/iq-increaser/static/js/main.7703b98c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ee2d753.css",
+    "static/css/main.fe3c93ec.css",
     "static/js/main.7703b98c.js"
   ]
 }
