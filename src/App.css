@@ -1,11 +1,13 @@
+@import url(https://pl.allfont.net/allfont.css?fonts=comic-sans-ms);
+
 .App {
   font-size: 2vh;
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: 'Comic Sans MS', Comic Sans MS, Comic Sans, cursive;
 }
 
 .btn-group button {
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: 'Comic Sans MS', Comic Sans MS, Comic Sans, cursive;
   margin-bottom: 1vh;
   text-align: center;
   text-decoration: none;

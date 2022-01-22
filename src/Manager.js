@@ -26,7 +26,7 @@ const Manager = () => {
             <div>{iq}</div>
             <div>({specialNums.includes(parseInt(iq)) ? ' ͡° ͜ʖ ͡°' : parseInt(iq) >= comments.length * 20 ? comments[comments.length - 1] : comments[Math.floor(parseInt(iq) / 20)]})</div>
             <div className='btn-group'>
-                <button onClick={() => setIQ(iq + Math.floor(Math.random() * 5 + 1))}>insrease iq</button>
+                <button onClick={() => setIQ(iq + 1)}>insrease iq</button>
                 <button onClick={() => {
                     setIQ(0);
                 }}>reset yur brain</button>
