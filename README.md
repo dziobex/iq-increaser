@@ -1,1 +1,1 @@
-don't take this seriously
+taki nie śmieszny żart mój ~~znowu~~
